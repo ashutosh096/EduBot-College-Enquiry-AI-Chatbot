@@ -39,3 +39,4 @@ Add Hindi / regional language support
 
 Free to use for educational institutions. No backend, no cost.
 ![image alt](https://github.com/ashutosh096/EduBot-College-Enquiry-AI-Chatbot/blob/f70b0b3fb7c5518b26b4c017aec1f579cf2dca3f/Screenshot%202026-03-31%20232411.png)
+![image alt](https://github.com/ashutosh096/EduBot-College-Enquiry-AI-Chatbot/blob/0103c8d44c78ef0a89f630a9f0b950afa3a07306/Screenshot%202026-03-31%20232419.png)
